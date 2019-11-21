@@ -16,6 +16,7 @@ __pycache__/
 # Data directories and archives
 dane_do_list_3-5/
 dane_listy_3_-_5/
+anova_data/
 
 # Distribution / packaging
 .Python
